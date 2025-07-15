@@ -68,7 +68,7 @@ com.example.randomUser
 ### Clone the Repository
 
 
-git clone https://github.com/srinibasnayak23/random-user-android.git
+git clone https://github.com/srinibasnayak23/Random-User-Android-App.git
 
 cd random-user-android
 
